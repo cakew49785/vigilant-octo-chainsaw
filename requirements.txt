@@ -1,0 +1,6 @@
+flask
+firebase-admin
+requests
+psutil
+google-auth
+gunicorn
